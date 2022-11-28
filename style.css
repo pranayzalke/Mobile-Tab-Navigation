@@ -59,7 +59,7 @@ nav ul li p{
     margin: 2px 0;
     
 }
-nav ul li p:hover{
-    cursor: pointer;
+nav ul li:hover{
+    color: #8e44ad;
     font-weight: bold;
 }
